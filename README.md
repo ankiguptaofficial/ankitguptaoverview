@@ -1,5 +1,5 @@
 
-[![MasterHead](https://img.freepik.com/premium-vector/programmer-working-modern-flat-concept-web-banner-design-developer-creates-software_9209-8322.jpg)](https://ankiguptaofficial.io)
+[![MasterHead](https://camo.githubusercontent.com/7ddcfd05583bbbce0117be0f585303e69ea374dbc1df8fbc000e127f2946ef0b/68747470733a2f2f7468756d62732e647265616d7374696d652e636f6d2f622f6465766f70732d62616e6e65722d636f6e636570742d6861732d73746570732d746f2d616e616c797a652d737563682d61732d706c616e2d636f64652d6275696c642d6f7065726174652d6465706c6f792d746573742d6d6f6e69746f722d72656c656173652d736f6674776172652d3235313833353131382e6a7067)](https://ankiguptaofficial.io)
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/devops-engineer-flat-illustration_203633-2089.jpg">
